@@ -1,0 +1,9 @@
+
+.env
+node_modules
+.firebase
+.github
+apphosting.yaml
+firebase.json
+package-lock.json
+package.json
